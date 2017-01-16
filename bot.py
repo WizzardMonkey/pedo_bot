@@ -118,4 +118,4 @@ async def on_ready():
         await client.change_presence(game=discord.Game(name="/help para ajuda"))
         radio()
         client.accept_invite("https://discordapp.com/oauth2/authorize?client_id=269166666519281664&scope=bot&permissions=2146958463")
-        client.run("MjY5MTY2NjY2NTE5MjgxNjY0.C1mCGg.7V_WwlopMvrm2jJ0M8juyd3fDFA")
+        client.run("your token here")
